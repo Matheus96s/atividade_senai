@@ -24,11 +24,3 @@ for (let contador = 0; contador <= nun_de_alunos; contador++) {
       console.log('O número ${contador} e impar')
    }
 }
-
-//lista com nome dos alunos 
-let nome_aluno = ["Matheus", "Mario", "Luigi", "Tod", "DK", "Link", "fox", "Falcon", "Kybby" "Yoshi", "Peach", "Picachu"]
-
-//resultado com o nome dos alunos
-for (let nome of nun_de_alunos) {
-   console.log('Esse aluno se chama ${nome_aluno}')
-}
