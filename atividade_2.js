@@ -1,3 +1,16 @@
+                       //REQUISITOS OBRIGATORIOS
+// primeiro: desenvolver o algoritmo para um sistema de cadastro de eventos;
+// segundo: escrever as variaveis para data atual e a data do evento;
+// terceiro: definir as codinções para data do evento;
+// quarto: definir as condiçoes para a idade do participante;
+// quinto: definir as condiçoes para quantidade de participantes no vento;
+// sexto: exibir a lista de participantes do evento.
+                             //OBSERVAÇÕES
+//CASO O CODIGO DE ERRO CONSULTA AULA REFERENTE AO ATIVIDADE 2;
+//CASO SEJA NECESSERARIO AVERIGUAR SOLUÇÕES NA DOCUMENTAÇÃO;
+//CONSULTA O STARK OVERFLOW;
+//TOMAR CAFE;
+//FAZER UMA ORAÇÃO.
 
 var n_participante = [''];
 var nome_participante = [''];
